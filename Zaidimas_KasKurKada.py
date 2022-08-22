@@ -20,7 +20,7 @@ from telegram.ext import (
     CallbackContext
 )
 import telegram
-from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove
+from telegram import ReplyKeyboardMarkup
 
 import warnings
 warnings.filterwarnings("ignore")
